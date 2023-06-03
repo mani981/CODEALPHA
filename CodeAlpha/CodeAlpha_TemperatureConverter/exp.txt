@@ -1,0 +1,6 @@
+Hey #connections
+During my Code Alpha web development internship, I had the opportunity to work on an exciting project related to link shortening. As a part of my project, I developed a link shortener tool that could shorten long and complicated URLs into shorter and more manageable links.
+This tool was designed to help users share links more easily on various social media platforms, emails, and other online platforms, without having to worry about long and confusing URLs. The link shortener tool was developed using various programming languages and web technologies, including HTML, CSS, JavaScript, and API.
+Throughout this internship, I was able to enhance my coding skills and gain valuable experience in web development. Working on this project also helped me understand the importance of developing tools that can simplify complex processes and make online activities more efficient.
+Overall, this project was an excellent learning experience, and I am proud to have contributed to Code Alpha web development initiatives. I look forward to applying the skills and knowledge I gained during this internship to future projects and challenges in the field of web development. #webdevelopment #javascript #html #work #css #github #codealpha
+Git-hub repositories link in comment check it out #internship
